@@ -12,7 +12,7 @@ Backend Setup
 
     Clone the repository
 
-git clone https://github.com/your-username/customer-feedback-platform.git
+git clone (https://github.com/A-Sravanthi/Feedback-system).git
 cd customer-feedback-platform/backend
 
 Install dependencies
